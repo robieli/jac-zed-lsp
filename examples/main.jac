@@ -34,7 +34,7 @@ def calculate_sum(a: int, b: int) -> int {
 }
 
 # Testing inline Python injection
-def inline_python_demo() {
+def inline_python_demo {
     ::py::
     import math
     result = math.sqrt(16)
