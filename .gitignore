@@ -1,4 +1,7 @@
 /target
 Cargo.lock
 *.wasm
+grammars/
 .DS_Store
+.jac/
+examples/.jac/
